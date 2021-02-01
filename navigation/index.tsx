@@ -45,7 +45,7 @@ function RootNavigator() {
         name="Root"
         component={MainTabNavigator}
         options={{
-        title: "WhatsApp Khadija",
+        title: "Erichat",
         headerRight: () => (
           <View style={{flexDirection: 'row', width: 60, justifyContent: 'space-between', marginRight: 10}}>
             <Octicons name="search" size={24} color={'white'} style={{marginRight: 16}}/>

@@ -9,7 +9,6 @@ import ChatScreen from '../screens/ChatScreen';
 import CameraScreen from '../screens/CameraScreen'
 import StatusScreen from '../screens/StatusScreen';
 import { MainTabParamList } from '../types';
-import { color } from 'react-native-reanimated';
 
 const MainTab = createMaterialTopTabNavigator<MainTabParamList>();
 
